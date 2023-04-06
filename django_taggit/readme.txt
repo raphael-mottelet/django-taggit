@@ -1,0 +1,1 @@
+## Project made in order to learn the use of django-taggit
